@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Cunas que salavan vidas",
+  title: "Cunas que salvan vidas",
   description: "Informatización del flujo de trabajo de Cunas que salvan vidas es un proyecto de un equipo de desarrollo que ha tenido claro que quería trabajar para aportar soluciones a problemas reales y de alto impacto lo antes posible",
   keywords: "itfc, cunas",
   robots: "noindex, nofollow",
